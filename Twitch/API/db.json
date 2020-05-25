@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "Good",
+      "description": "Great",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Other Stream is created",
+      "id": 2
+    },
+    {
+      "title": "Terr",
+      "description": "Is a sweet dog",
+      "id": 3
+    },
+    {
+      "title": "bla",
+      "description": "bluafa",
+      "id": 4
+    },
+    {
+      "title": "Shadman Stream",
+      "description": "Created with user Id",
+      "userId": "108914945264429198418",
+      "id": 5
+    },
+    {
+      "title": "New stream",
+      "description": "bbla",
+      "userId": "108914945264429198418",
+      "id": 6
+    }
+  ]
+}
